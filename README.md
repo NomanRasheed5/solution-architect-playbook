@@ -33,22 +33,27 @@ This repository answers these questions through practical architecture guidance 
 ```text
 solution-architect-playbook
 
-├── Architecture Decision Records
-├── Monolith vs Microservices
-├── Modular Monolith
-├── CQRS Pattern
-├── Event Driven Architecture
-├── API Gateway Pattern
-├── Saga Pattern
-├── Multi Tenant Architecture
-├── Authentication Patterns
-├── Caching Strategies
-├── Database Selection Guide
-├── Azure Hosting Decision Matrix
-├── Enterprise RAG Architecture
-├── Distributed Systems Design
-├── System Design Case Studies
-└── Message Broker Selection Guide
+# 🚀 Quick Navigation
+
+| Topic | Open |
+|---------|---------|
+| Architecture Decision Records | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/1-%20Architecture%20Decision%20Records.md) |
+| Monolith vs Microservices | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/2-%20Monolith%20vs%20Microservices.md) |
+| Modular Monolith | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/3-%20Modular%20Monolith.md) |
+| CQRS Pattern | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/4-%20CQRS.md) |
+| Event Driven Architecture | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/5-%20Event%20Driven%20Architecture.md) |
+| API Gateway Pattern | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/6-%20API%20Gateway%20Pattern.md) |
+| Saga Pattern | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/7-%20Saga%20Pattern.md) |
+| Multi Tenant Architecture | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/8-%20Multi%20Tenant%20Architecture.md) |
+| Authentication Patterns | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/9-%20Authentication%20Patterns.md) |
+| Caching Strategy | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/Caching%20Strategy.md) |
+| Database Selection Guide | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/Database%20Selection%20Guide.md) |
+| Azure Hosting Models | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/Azure%20Hosting%20Models.md) |
+| Enterprise RAG Architecture | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/Enterprise%20RAG%20Architecture.md) |
+| Message Broker Selection | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/Message%20Broker%20Selection.md) |
+| System Design Case Studies | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/System%20Design%20Case%20Studies.md) |
+
+---
 ```
 
 ---
