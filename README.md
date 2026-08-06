@@ -30,10 +30,6 @@ This repository answers these questions through practical architecture guidance 
 
 # 📚 Repository Structure
 
-```text
-solution-architect-playbook
-
-# 🚀 Quick Navigation
 
 | Topic | Open |
 |---------|---------|
@@ -54,7 +50,6 @@ solution-architect-playbook
 | System Design Case Studies | [View](https://github.com/NomanRasheed5/solution-architect-playbook/blob/main/Architecture%20Decision%20Records/System%20Design%20Case%20Studies.md) |
 
 ---
-```
 
 ---
 
