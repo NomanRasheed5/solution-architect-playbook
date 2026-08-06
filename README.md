@@ -47,7 +47,7 @@ solution-architect-playbook
 ├── Azure Hosting Decision Matrix
 ├── Enterprise RAG Architecture
 ├── Distributed Systems Design
-└── System Design Case Studies
+├── System Design Case Studies
 └── Message Broker Selection Guide
 ```
 
