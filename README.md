@@ -48,6 +48,7 @@ solution-architect-playbook
 ├── Enterprise RAG Architecture
 ├── Distributed Systems Design
 └── System Design Case Studies
+└── Message Broker Selection Guide
 ```
 
 ---
